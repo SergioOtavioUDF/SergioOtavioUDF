@@ -34,10 +34,6 @@ Estou desenvolvendo conhecimentos em:
 - Controle de versão com Git e GitHub.
 - Fundamentos de redes e segurança da informação.
 
-## 🚀 Projetos
-
-Esta seção será atualizada conforme meus projetos acadêmicos e pessoais forem desenvolvidos e publicados.
-
 ## 📫 Contato
 
 - GitHub: [SergioOtavioUDF](https://github.com/SergioOtavioUDF)
